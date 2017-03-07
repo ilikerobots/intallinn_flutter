@@ -199,7 +199,7 @@ class MainDrawer extends StatelessWidget {
                         ),
                         new LinkTextSpan(
                             style: linkStyle,
-                            url: 'https://goo.gl/iv1p4G',
+                            url: 'https://github.com/ilikerobots/intallinn_flutter',
                             text: 'open source'
                         ),
                         new TextSpan(
