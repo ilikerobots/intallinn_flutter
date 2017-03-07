@@ -1,0 +1,97 @@
+name: intallinn_app
+publish_to: none
+description: Travel tips to Tallinn, Estonia
+author: Mike Hoolehan <mike@hoolehan.com>
+homepage: https://intallinn.ee
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_markdown:
+    sdk: flutter
+    #path: ../flutter/packages/flutter_markdown
+  in_tallinn_content:
+    git:
+      url: https://github.com/ilikerobots/intallinn_content.git
+      ref: sterile
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_driver:
+    sdk: flutter
+  path: '^1.4.0'
+  glob: '^1.1.0'
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/image/in_tallinn_tower_android.svg
+    # content markdown
+    - assets/content/about.md
+    - assets/content/airport.md
+    - assets/content/ask-us.md
+    - assets/content/auto-rental.md
+    - assets/content/bikes.md
+    - assets/content/climate.md
+    - assets/content/cuisine.md
+    - assets/content/currency.md
+    - assets/content/destinations-outside-tallinn.md
+    - assets/content/dining.md
+    - assets/content/getting-away.md
+    - assets/content/history.md
+    - assets/content/internet.md
+    - assets/content/language.md
+    - assets/content/museums.md
+    - assets/content/neighborhoods.md
+    - assets/content/nightlife.md
+    - assets/content/parks.md
+    - assets/content/people.md
+    - assets/content/power.md
+    - assets/content/public-transport.md
+    - assets/content/safety.md
+    - assets/content/seaport.md
+    - assets/content/seasonal-events.md
+    - assets/content/tallinn-card.md
+    - assets/content/taxis.md
+    - assets/content/tourist-office.md
+    - assets/content/walking.md
+    # content page pics
+    - assets/image/section/airport.jpg
+    - assets/image/section/auto-rental.jpg
+    - assets/image/section/bikes.jpg
+    - assets/image/section/climate.jpg
+    - assets/image/section/cuisine.jpg
+    - assets/image/section/currency.jpg
+    - assets/image/section/destinations-outside-tallinn.jpg
+    - assets/image/section/dining.jpg
+    - assets/image/section/getting-away.jpg
+    - assets/image/section/history.jpg
+    - assets/image/section/internet.jpg
+    - assets/image/section/language.jpg
+    - assets/image/section/museums.jpg
+    - assets/image/section/neighborhoods.jpg
+    - assets/image/section/nightlife.jpg
+    - assets/image/section/parks.jpg
+    - assets/image/section/people.jpg
+    - assets/image/section/power.jpg
+    - assets/image/section/public-transport.jpg
+    - assets/image/section/safety.jpg
+    - assets/image/section/seaport.jpg
+    - assets/image/section/seasonal-events.jpg
+    - assets/image/section/tallinn-card.jpg
+    - assets/image/section/taxis.jpg
+    - assets/image/section/tourist-office.jpg
+    - assets/image/section/walking-tours.jpg
+  fonts:
+    - family: AlegreyaSansSC
+      fonts:
+        - asset: assets/font/AlegreyaSansSC/AlegreyaSansSC-Light.ttf
+          weight: 200
+    - family: Quicksand
+      fonts:
+        - asset: assets/font/Quicksand/Quicksand-Bold.ttf
+          weight: 600
+        - asset: assets/font/Quicksand/Quicksand-Light.ttf
+          weight: 400
+        - asset: assets/font/Quicksand/Quicksand-Regular.ttf
+          weight: 500

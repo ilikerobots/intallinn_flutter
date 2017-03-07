@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="192"
+   height="192"
+   viewBox="0 0 191.99999 191.99999"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="in_talllinn_tower_android.svg"
+   inkscape:export-filename="/home/mike/WebstormProjects/inTallinn/app/ionic/resources/icon_512.png"
+   inkscape:export-xdpi="240"
+   inkscape:export-ydpi="240">
+  <defs
+     id="defs4">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4185">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4187"
+         width="191.99998"
+         height="191.99998"
+         x="-4.0000033"
+         y="852.36224"
+         ry="21.785706" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4185-4">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4187-8"
+         width="191.99998"
+         height="191.99998"
+         x="-4.0000033"
+         y="852.36224"
+         ry="21.785706" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5224">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff00ff;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5226"
+         width="191.99995"
+         height="191.99995"
+         x="43.942627"
+         y="534.67719"
+         ry="21.785702" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5228">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff00ff;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5230"
+         width="191.99995"
+         height="191.99995"
+         x="43.942627"
+         y="534.67719"
+         ry="21.785702" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="271.20203"
+     inkscape:cy="30.970752"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="3840"
+     inkscape:window-height="2130"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="96.873624,166.17008"
+       orientation="1,0"
+       id="guide4842" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-860.36226)">
+    <rect
+       style="opacity:1;fill:#0072ce;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4136-8-1"
+       width="191.99997"
+       height="191.99997"
+       x="43.942619"
+       y="534.67719"
+       ry="21.785704"
+       clip-path="url(#clipPath5228)"
+       transform="translate(-43.942616,325.68509)" />
+    <path
+       sodipodi:nodetypes="ccsccscccc"
+       inkscape:connector-curvature="0"
+       id="path4840"
+       d="m 80.409474,989.10871 c -1.79509,-4.00827 -2.40267,-5.15013 -3.48225,-18.53047 -1.21358,15.9287 -4.52653,17.12856 -4.55801,25.89183 l -0.13266,36.93083 48.515376,0 -0.13265,-36.93083 c -0.0315,-8.76327 -3.34444,-9.96314 -4.55802,-25.89183 -1.07957,13.38034 -1.68715,14.5222 -3.48224,18.53047 -12.49538,0 -14.163206,-77.6709 -16.084776,-116.85068 -1.92156,39.17978 -3.21036,116.85068 -16.08477,116.85068 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:0.20676694;stroke:none;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 140.49414,546.63179 -0.0449,0.0449 0,160.72071 -24.19922,0 0,0.39844 47.65039,47.65039 -44.10937,44.10937 20.70312,20.70313 136.8125,-136.81446 -136.8125,-136.8125 z"
+       id="rect5145"
+       inkscape:connector-curvature="0"
+       clip-path="url(#clipPath5224)"
+       transform="translate(-43.942616,325.68509)" />
+    <g
+       id="g5172"
+       transform="translate(-43.942616,265.68509)">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect5092-7"
+         d="m 130.07405,737.53047 c -2.84482,0 -5.13493,3.89533 -5.13493,8.73419 l 0,6.4328 11.33377,0 0,-6.4328 c 0,-4.83886 -2.29057,-8.73419 -5.13539,-8.73419 l -1.06345,0 z"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect5092-7-2"
+         d="m 148.74725,737.53047 c -2.84482,0 -5.13493,3.89533 -5.13493,8.73419 l 0,6.4328 11.33377,0 0,-6.4328 c 0,-4.83886 -2.29057,-8.73419 -5.13539,-8.73419 l -1.06345,0 z"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

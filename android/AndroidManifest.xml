@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.starheightmedia.intallinn" android:versionCode="4" android:versionName="0.0.4">
+
+    <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="25" />
+    <!--<uses-permission android:name="android.permission.INTERNET"/>-->
+    <supports-screens android:anyDensity="true" android:largeScreens="true" android:normalScreens="true" android:resizeable="true" android:smallScreens="true" android:xlargeScreens="true" />
+
+    <application android:icon="@mipmap/ic_launcher" android:label="inTallinn" android:name="io.flutter.app.FlutterApplication">
+        <activity android:configChanges="orientation|keyboardHidden|keyboard|screenSize" android:hardwareAccelerated="true" android:launchMode="singleTask" android:name="io.flutter.app.FlutterActivity" android:theme="@android:style/Theme.Light.NoTitleBar" android:windowSoftInputMode="adjustResize">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+ </manifest>
